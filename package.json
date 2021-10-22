@@ -4,8 +4,8 @@
   "description": "n this crash course we will dive into the Express JS framework for Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,9 @@
   "homepage": "https://github.com/ZeroDaySamurai/Express-JS_Crash_Course_Traversy_Media#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "js": "^0.1.0"
+    "js": "^0.1.0",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
