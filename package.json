@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/ZeroDaySamurai/Express-JS_Crash_Course_Traversy_Media#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "js": "^0.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
